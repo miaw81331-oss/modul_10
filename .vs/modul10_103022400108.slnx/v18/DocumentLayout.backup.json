@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\modul10_103022400108\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E1DBDC-E425-8883-2D71-2D6C2FA7508A}|modul10_103022400108\\modul10_103022400108.csproj|d:\\modul10_103022400108\\modul10_103022400108\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E1DBDC-E425-8883-2D71-2D6C2FA7508A}|modul10_103022400108\\modul10_103022400108.csproj|solutionrelative:modul10_103022400108\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E1DBDC-E425-8883-2D71-2D6C2FA7508A}|modul10_103022400108\\modul10_103022400108.csproj|d:\\modul10_103022400108\\modul10_103022400108\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90E1DBDC-E425-8883-2D71-2D6C2FA7508A}|modul10_103022400108\\modul10_103022400108.csproj|solutionrelative:modul10_103022400108\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E1DBDC-E425-8883-2D71-2D6C2FA7508A}|modul10_103022400108\\modul10_103022400108.csproj|d:\\modul10_103022400108\\modul10_103022400108\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E1DBDC-E425-8883-2D71-2D6C2FA7508A}|modul10_103022400108\\modul10_103022400108.csproj|solutionrelative:modul10_103022400108\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E1DBDC-E425-8883-2D71-2D6C2FA7508A}|modul10_103022400108\\modul10_103022400108.csproj|d:\\modul10_103022400108\\modul10_103022400108\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E1DBDC-E425-8883-2D71-2D6C2FA7508A}|modul10_103022400108\\modul10_103022400108.csproj|solutionrelative:modul10_103022400108\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\modul10_103022400108\\modul10_103022400108\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "modul10_103022400108\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\modul10_103022400108\\modul10_103022400108\\Properties\\launchSettings.json",
+              "RelativeToolTip": "modul10_103022400108\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T07:18:02.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\modul10_103022400108\\modul10_103022400108\\Program.cs",
+              "RelativeDocumentMoniker": "modul10_103022400108\\Program.cs",
+              "ToolTip": "D:\\modul10_103022400108\\modul10_103022400108\\Program.cs",
+              "RelativeToolTip": "modul10_103022400108\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:08:55.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\modul10_103022400108\\modul10_103022400108\\Game.cs",
+              "RelativeDocumentMoniker": "modul10_103022400108\\Game.cs",
+              "ToolTip": "D:\\modul10_103022400108\\modul10_103022400108\\Game.cs",
+              "RelativeToolTip": "modul10_103022400108\\Game.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:10:42.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gamecontroller.cs",
+              "DocumentMoniker": "D:\\modul10_103022400108\\modul10_103022400108\\Controllers\\Gamecontroller.cs",
+              "RelativeDocumentMoniker": "modul10_103022400108\\Controllers\\Gamecontroller.cs",
+              "ToolTip": "D:\\modul10_103022400108\\modul10_103022400108\\Controllers\\Gamecontroller.cs",
+              "RelativeToolTip": "modul10_103022400108\\Controllers\\Gamecontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:06:19.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
