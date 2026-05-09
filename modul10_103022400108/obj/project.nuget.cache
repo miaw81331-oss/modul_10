@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0SkPGbi40s=",
+  "success": true,
+  "projectFilePath": "D:\\modul10_103022400108\\modul10_103022400108\\modul10_103022400108.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
